@@ -18,6 +18,7 @@ Example: 2022-09-27 18:00:00.000 = September 27, 2022 at 6 p.m.
 [Untitled](Untitled%2018be8e5deb9380d08bbac8a3fcae8744.csv)
 
 |	Location in UI	|	Date type	|	Location of date in files	|	Following ISO 8601?	|	Intended 8601?	|	User Need	|	Notes	|	Files	|
+| --- | --- | --- | --- | --- | --- | --- | --- | 
 |	Email Subject	|	report created date	|	EmailRepo - line 68	|	Yes	|	Yes	|	Date	|		|	https://launchcg.atlassian.net/wiki/download/thumbnails/3335684097/image-20250129-151945.png?version=1&modificationDate=1738275617525&cacheVersion=1&api=v2&width=250, https://launchcg.atlassian.net/wiki/download/thumbnails/3335684097/image-20250129-151945.png?version=1&modificationDate=1738275617525&cacheVersion=1&api=v2&width=250	|
 |	Email message	|	report created date	|	EmojiEmail - line 34	|	Yes	|	Yes	|	Date	|		|	https://launchcg.atlassian.net/wiki/download/thumbnails/3335684097/image-20250129-151835.png?version=1&modificationDate=1738275617350&cacheVersion=1&api=v2&width=250	|
 |	Email message	|	report created date	|	EmojiEmail - line 100	|	Yes	|	Yes	|	Date, Time	|		|	https://launchcg.atlassian.net/wiki/download/thumbnails/3335684097/image-20250129-151845.png?version=1&modificationDate=1738275617178&cacheVersion=1&api=v2&width=250	|
