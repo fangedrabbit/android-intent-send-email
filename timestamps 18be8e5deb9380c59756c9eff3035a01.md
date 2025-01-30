@@ -15,8 +15,6 @@ ISO 8601 Format: year, month, day, hour, minutes, seconds, and milliseconds.
 
 Example: 2022-09-27 18:00:00.000 = September 27, 2022 at 6 p.m.
 
-[Untitled](Untitled%2018be8e5deb9380d08bbac8a3fcae8744.csv)
-
 |	Location in UI	|	Date type	|	Location of date in files	|	Following ISO 8601?	|	Intended 8601?	|	User Need	|	Notes	|	Files	|
 | --- | --- | --- | --- | --- | --- | --- | --- | 
 |	Email Subject	|	report created date	|	EmailRepo - line 68	|	Yes	|	Yes	|	Date	|		|	https://launchcg.atlassian.net/wiki/download/thumbnails/3335684097/image-20250129-151945.png?version=1&modificationDate=1738275617525&cacheVersion=1&api=v2&width=250, https://launchcg.atlassian.net/wiki/download/thumbnails/3335684097/image-20250129-151945.png?version=1&modificationDate=1738275617525&cacheVersion=1&api=v2&width=250	|
@@ -33,4 +31,4 @@ Example: 2022-09-27 18:00:00.000 = September 27, 2022 at 6 p.m.
 |	Chart information page	|	compressor 2 date of production	|	VaroChartDialog - line 178	|	Yes	|	Yes	|	Date	|		|	https://launchcg.atlassian.net/wiki/download/thumbnails/3335684097/image-20250129-153011.png?version=1&modificationDate=1738275615587&cacheVersion=1&api=v2&width=250	|
 |	Chart page header	|	date of first record from data	|	VaroChartDialog - line 107ChartData - line 85	|	No	|	Yes	|	Date, Day, Time	|	is it iso8601 if it isn’t in UTC?	|	https://launchcg.atlassian.net/wiki/download/thumbnails/3335684097/image-20250129-153037.png?version=1&modificationDate=1738275615432&cacheVersion=1&api=v2&width=250	|
 |	Chart page header	|	date of last record from data	|	VaroChartDialog - line 116ChartData - line 86	|	No	|	Yes	|	Date, Day, Time	|	is it iso8601 if it isn’t in UTC?	|	https://launchcg.atlassian.net/wiki/download/thumbnails/3335684097/image-20250129-153038.png?version=1&modificationDate=1738275615170&cacheVersion=1&api=v2&width=250	|
-![image](https://github.com/user-attachments/assets/f8833080-ca62-477c-bbc8-7fc2fa89260f)
+
